@@ -15,7 +15,7 @@
 # 论文中文化的进度
 
 [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://github.com/Dr-zfeng/Paper2Chinese/blob/main/papers/TPAMI/readme.md)  
-[IEEE Transactions on Intelligent Vehicles (TIV)](gg)  
+[IEEE Transactions on Intelligent Vehicles (TIV)](https://github.com/Dr-zfeng/Paper2Chinese/blob/main/Journals/TIV/README.md)  
 [IEEE Transactions on Robotics (TRO)](gg)  
 [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](gg)  
 [International Conference on Computer Vision (ICCV)](gg)  
